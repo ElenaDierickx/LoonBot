@@ -1,0 +1,12 @@
+{
+  "name": "LoonBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ElenaDierickx/LoonBot.git",
+  "author": "ElenaDierickx <elena.dierickx@outlook.be>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
